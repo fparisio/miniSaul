@@ -88,13 +88,9 @@ This design ensures scalability and quick response times, leveraging efficient v
 
 Contributions to miniSaul are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-[Specify your license here]
-
 ## Contact
 
-For any questions or feedback, please contact Francesco Parisio at [francesco.parisio@protonmail.com].
+For any questions or feedback, please contact Francesco Parisio at francesco.parisio@protonmail.com.
 
 ## ToDo
 
